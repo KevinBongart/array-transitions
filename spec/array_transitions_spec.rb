@@ -1,7 +1,8 @@
+# frozen_string_literal: true
 require 'spec_helper'
 
 describe Array do
-  describe "#transitions" do
+  describe '#transitions' do
     subject { array.transitions }
 
     context 'empty array' do
