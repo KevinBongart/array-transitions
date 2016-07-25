@@ -4,7 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/KevinBongart/array-transitions/badges/gpa.svg)](https://codeclimate.com/github/KevinBongart/array-transitions)
 [![Test Coverage](https://codeclimate.com/github/KevinBongart/array-transitions/badges/coverage.svg)](https://codeclimate.com/github/KevinBongart/array-transitions/coverage)
 
-List transitions found in an array while skipping duplicates elements:
+List transitions found in an array while skipping duplicate elements:
 
 ```ruby
 [].transitions
