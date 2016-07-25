@@ -1,5 +1,9 @@
 # Array#transitions
 
+[![CircleCI](https://circleci.com/gh/KevinBongart/array-transitions.svg?style=shield)](https://circleci.com/gh/KevinBongart/array-transitions)
+[![Code Climate](https://codeclimate.com/github/KevinBongart/array-transitions/badges/gpa.svg)](https://codeclimate.com/github/KevinBongart/array-transitions)
+[![Test Coverage](https://codeclimate.com/github/KevinBongart/array-transitions/badges/coverage.svg)](https://codeclimate.com/github/KevinBongart/array-transitions/coverage)
+
 List transitions found in an array while skipping duplicates elements:
 
 ```ruby
